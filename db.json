@@ -1,0 +1,8 @@
+{
+  "users": {
+    "rehydrated": false,
+    "email": "email@domain.com",
+    "password": "password",
+    "message": "Enter email and password"
+  }
+}
